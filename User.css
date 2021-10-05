@@ -1,0 +1,29 @@
+.login-container1{
+    box-shadow: 1cm;
+    position: inherit;
+}
+.container{
+    position:top center;
+    justify-content: center;
+    justify-items: center;
+    box-sizing: border-box;
+    box-shadow: inset;
+    box-shadow:aqua;
+    text-align: center;
+   
+}
+.test{
+    
+        background-color:transparent;
+        width: 500px;
+        text-decoration: solid;
+        padding: 50px;
+        margin: 20px;
+        position:fixed;
+        justify-content: center;
+      
+}
+.center{
+    position: relative;
+    justify-content: center;
+}

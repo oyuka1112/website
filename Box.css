@@ -1,0 +1,33 @@
+.box{
+    background-color:rgba(95, 20, 95, 0.07);
+    border-radius: 10px;
+    overflow:hidden;
+    height:200px;
+    width: 500px;
+    max-height: 35vh;
+    /* box-shadow: 0px 12px 18px -6px rgba(0, 0, 0, 0.719);  */
+    margin: 20px; 
+    border-radius: 25px;
+
+}
+.color{
+    background-color: rgba(95, 20, 95, 0.07);
+}
+/* .box{
+   margin: 20px;
+
+} */
+.goy{
+    justify-content: end ;
+}
+.grid{
+    min-height: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+
+
+}
+.grid >div {
+    flex-basis: calc(20%-40px);
+}
